@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd1763d2-cfd0-4d7d-9466-ab5ff513be6c" name="Default Changelist" comment="add changements" />
+    <list default="true" id="dd1763d2-cfd0-4d7d-9466-ab5ff513be6c" name="Default Changelist" comment="Coursera">
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/NUMPY-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/REGEX-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/.ipynb_checkpoints/example_supervised-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/PYCARET.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Week_2/.ipynb_checkpoints/ex_1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Week_2/CommViolPredUnnormalizedData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Week_2/adspy_temp.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Week_2/ex_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Week_2/fruit_data_with_colors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/example_supervised.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN THEORY/.ipynb_checkpoints/ML_Coursera-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN THEORY/CommViolPredUnnormalizedData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN THEORY/ML_Coursera.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN THEORY/fruit_data_with_colors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NUMPY.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PCA/.ipynb_checkpoints/Exercise_1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PCA/.ipynb_checkpoints/Exercise_2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PCA/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/REGEX.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regressions/.ipynb_checkpoints/Scikit_Regression-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regressions/Scikit_Regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ben.heic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ferpa.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PCA/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PCA/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYCARET.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regressions/Logistic Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Regressions/Logistic Regression.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +47,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ySi3RyekMYYQ9zf3A2bJGcXdpc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="MTHome" />
@@ -50,7 +83,35 @@
       <option name="project" value="LOCAL" />
       <updated>1632927931547</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pyspark_2">
+      <created>1632953215452</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632953215452</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pyspark_3">
+      <created>1633124368365</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633124368365</updated>
+    </task>
+    <task id="LOCAL-00005" summary="PCA">
+      <created>1633124391031</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633124391031</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Coursera">
+      <created>1633522710838</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633522710838</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,9 +136,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add changements" />
-    <option name="LAST_COMMIT_MESSAGE" value="add changements" />
+    <MESSAGE value="pyspark_2" />
+    <MESSAGE value="pyspark_3" />
+    <MESSAGE value="PCA" />
+    <MESSAGE value="Coursera" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coursera" />
   </component>
 </project>
