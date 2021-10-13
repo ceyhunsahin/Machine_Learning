@@ -1,0 +1,92 @@
+                                    Ceyhun sahin text mining working
+Nous vous remercions de bien vouloir remplir ce dossier avec attention et précision.
+Nous vous assurons de notre discrétion vis-à-vis de vos employeurs actuels.
+
+INFORMATIONS PERSONNELLES
+
+Nom : SAHIN	 Prénom : Ceyhun
+Code postal : 54500	 Ville : Nancy
+Téléphone : 0760535287	 Mobile : 
+Adresse E-mail : csahin2086	 @ hotmail.com
+
+FORMATIONS
+
+	Etablissements	Diplômes obtenus	Année du diplôme
+Supérieure
+	Clarusway	Python Développeur	2021
+Initiale
+	Académie navale
+De Turquie	Génie électrique et électronique	2006
+
+COMPÉTENCES PROFESSIONNELLES ACQUISES AU COURS DE VOTRE CARRIERE
+
+Vos savoir-faire : Maîtrise de langages de programmation, Maîtrise de visualization (Dash Plotly, Data Studio), Maîtrise de base de donne(MySQL, MAriaDB, Google BigQuery)
+
+Vos savoir-être : Travail en équipe, capacité d’écoute, autonome, discipline, Persévérance, rigueur 
+
+CONNAISSANCES INFORMATIQUES ET LANGUES
+
+Programmes, logiciels, langages maîtrisés :
+Python, SQL, Plotly Dash, Machine Learning, Time Series, HTML, CSS, Git, Google Data Studio, Google Bigquery
+
+Référentiel européen - Cocher la case correspondante
+Langues	A1	A2	B1	B2	C1
+Anglais			
+	
+Allemand					
+Espagnol					
+Autres : Turc					
+
+
+
+
+
+DERNIER POSTE OCCUPÉ
+
+Entreprise : Université de Lorraine	Activité de l’entreprise : 	
+Titre et date d’entrée : Ingénieur Recherche/ Data Scientist 	Dernier titre ou titre actuel :	
+Statut : 	Encadrement d’équipe :  oui,… pers.(s)  non 
+Rémunération initiale : 1750	Dernière rémunération ou rémunération actuelle : 1750	
+Motif de départ : Laboraoire		
+Etes-vous lié par une clause de non-concurrence :    oui      non
+
+DISPONIBILITÉ ET MOBILITÉ GÉOGRAPHIQUE
+
+
+Etes-vous en poste :   oui 	 non  	Quelle est votre date de sortie :01/09/2021 
+Quel est votre délai de disponibilité : 15 Jours	
+Etes-vous mobile géographiquement :  oui     non   Si oui, indiquer les départements : Grand-Est	
+Acceptez-vous les déplacements professionnels :   oui   non  Si oui, à quelle fréquence : 
+RÉFÉRENCES PROFESSIONNELLES
+
+(Anciens responsables hiérarchiques)
+
+Ces personnes ne pourront être contactées qu’avec votre accord et avant décision ultime d’engagement.
+
+Nom : BENELMIR Riad	 Nom : Soudani Allaoua	
+Société : Université de Lorraine	 Société : Université de Lorraine	
+Fonction : Profeeseur	 Fonction : PHD	
+Téléphone : 0679604134	 Téléphone : 0651968923
+
+
+Je certifie exacts les renseignements mentionnés.
+Conformément aux dispositions de l’article 27 de la Loi du 6 janvier 1978 “Informatique et Libertés”, je garde la possibilité d’avoir accès à ces informations et de les faire rectifier si nécessaire.
+
+Je déclare avoir donné mon accord à MANAGING pour conserver mon dossier personnel  oui  non
+
+Fait à Nancy                                                                                   le 24/09/2021  Signature :
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conseil en développement des Ressources Humaines
+www.managing.fr – strasbourg@managing.fr - +33 (0)3 88 36 12 00
