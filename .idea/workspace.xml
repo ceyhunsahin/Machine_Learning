@@ -2,35 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd1763d2-cfd0-4d7d-9466-ab5ff513be6c" name="Default Changelist" comment="Coursera">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/NUMPY-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/REGEX-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COURSERA_ML/.ipynb_checkpoints/example_supervised-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COURSERA_ML/PYCARET.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Week_2/.ipynb_checkpoints/ex_1-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Week_2/CommViolPredUnnormalizedData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Week_2/adspy_temp.dot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Week_2/ex_1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Week_2/fruit_data_with_colors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COURSERA_ML/example_supervised.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KNN THEORY/.ipynb_checkpoints/ML_Coursera-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KNN THEORY/CommViolPredUnnormalizedData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KNN THEORY/ML_Coursera.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KNN THEORY/fruit_data_with_colors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NUMPY.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PCA/.ipynb_checkpoints/Exercise_1-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PCA/.ipynb_checkpoints/Exercise_2-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PCA/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REGEX.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regressions/.ipynb_checkpoints/Scikit_Regression-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regressions/Scikit_Regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ben.heic" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/download.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ferpa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_2/.ipynb_checkpoints/Assignment+2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_2/.ipynb_checkpoints/Lab_Classsifier_Visualization-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_2/.ipynb_checkpoints/ex_1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_2/Assignment+2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_2/CommViolPredUnnormalizedData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_2/Lab_Classsifier_Visualization.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_2/adspy_shared_utilities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_2/adspy_temp.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_2/ex_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_2/fruit_data_with_colors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_3/.ipynb_checkpoints/Assignment_3-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_3/.ipynb_checkpoints/Evaluation-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_3/.ipynb_checkpoints/Exercise_1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_3/Assignment_3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_3/Evaluation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_3/Exercise_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_3/adspy_shared_utilities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_3/fraud_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_4/.ipynb_checkpoints/Lab-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_4/CommViolPredUnnormalizedData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_4/adspy_shared_utilities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_4/adspy_temp.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_4/ex_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/Week_4/fruit_data_with_colors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/Applied in ML/example_supervised.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/TEXT MINING/Week_1/.ipynb_checkpoints/Ex_1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/TEXT MINING/Week_1/.ipynb_checkpoints/LAB-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/TEXT MINING/Week_1/.ipynb_checkpoints/REGEX-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/TEXT MINING/Week_1/Assignment+1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/TEXT MINING/Week_1/Ex_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/TEXT MINING/Week_1/attestation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/TEXT MINING/Week_1/candidature.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/TEXT MINING/Week_1/candidature.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/TEXT MINING/Week_2/.ipynb_checkpoints/Assignment+2 (1)-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/TEXT MINING/Week_2/.ipynb_checkpoints/LAB-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COURSERA_ML/TEXT MINING/Week_2/Assignment+2 (1).ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PCA/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PCA/Untitled.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYCARET.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regressions/Logistic Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Regressions/Logistic Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_2/.ipynb_checkpoints/ex_1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_2/Assignment+2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_2/CommViolPredUnnormalizedData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_2/adspy_shared_utilities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_2/adspy_temp.dot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_2/ex_1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_2/fruit_data_with_colors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_2/mushrooms.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_3/Assignment_3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_3/Evaluation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_3/Exercise_1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_3/fraud_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_4/.ipynb_checkpoints/Lab-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_4/CommViolPredUnnormalizedData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_4/Lab.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_4/adspy_shared_utilities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_4/ex_1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/Week_4/fruit_data_with_colors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COURSERA_ML/example_supervised.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +138,63 @@
       <option name="project" value="LOCAL" />
       <updated>1633522710838</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Coursera">
+      <created>1633523241039</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1633523241039</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Coursera">
+      <created>1633523294029</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1633523294029</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Coursera">
+      <created>1634122125029</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634122125029</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Coursera">
+      <created>1634122228290</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1634122228290</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Coursera">
+      <created>1634122307433</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1634122307433</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Coursera">
+      <created>1634122383255</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1634122383255</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Coursera">
+      <created>1634163250272</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1634163250272</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Coursera">
+      <created>1634163263775</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1634163263775</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
